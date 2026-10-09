@@ -1,0 +1,6 @@
+{
+  "name": "AI Department Management Dashboard",
+  "description": "Dashboard quản lý Bộ môn đại học tích hợp Gemini: KPI, đào tạo, đội ngũ, NCKH, bảo đảm chất lượng (PDCA), minh chứng, công việc, AI Department Copilot và báo cáo. Số liệu do hệ thống tính từ dữ liệu nguồn; AI chỉ phân tích và đề xuất, người quản lý quyết định.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
